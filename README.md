@@ -13,6 +13,12 @@ This board is designed for the development of the [Geckoboot bootloader][geckobo
 [geckoboot]: https://github.com/flummer/geckoboot
 [geckonator]: https://github.com/flummer/geckonator
 
+## Hardware
+
+This design is using the [Seeed OPL for KiCad library][seeed-opl] for all components, except for the EMF32 microcontroller. They are all standard components and can easily be replaced with parts sourced from other places.
+
+[seeed-opl]: https://github.com/Seeed-Studio/OPL_Kicad_Library
+
 ## License
 
 The contents of this repository is released under the following licence:
